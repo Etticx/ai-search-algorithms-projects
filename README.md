@@ -9,7 +9,6 @@ A collection of classic search algorithms implemented in Python, designed for le
 - [Introduction](#introduction)  
 - [Implemented Algorithms](#implemented-algorithms)  
 - [Getting Started](#getting-started)  
-- [Usage](#usage)   
 
 ---
 
@@ -21,7 +20,7 @@ This repository is aimed at students and beginners who want to learn AI problem-
 
 ## Implemented Algorithms
 
-### Uninformed (Blind) Search
+### [Uninformed (Blind) Search](./Blind-Search)
 - **Breadth-First Search (BFS)**  
 - **Depth-First Search (DFS)**  
 
