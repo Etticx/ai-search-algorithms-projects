@@ -9,6 +9,7 @@ A collection of classic search algorithms implemented in Python, designed for le
 - [Introduction](#introduction)  
 - [Implemented Algorithms](#implemented-algorithms)  
 - [Getting Started](#getting-started)  
+- [Contributing](#contributing)  
 
 ---
 
@@ -41,3 +42,7 @@ This repository is aimed at students and beginners who want to learn AI problem-
 git clone https://github.com/Etticx/ai-search-algorithms-projects.git
 cd ai-search-algorithms-projects
 ```
+
+## Contributing
+
+See the [contribution guide](CONTRIBUTING.md) for bug-report details, pull request guidance, and checks for search algorithm changes.
