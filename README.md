@@ -38,4 +38,6 @@ This repository is aimed at students and beginners who want to learn AI problem-
 
 1. **Clone the repository**
 ```bash
-git clone https://github.com/yourusername/ai-search-algorithms.git
+git clone https://github.com/Etticx/ai-search-algorithms-projects.git
+cd ai-search-algorithms-projects
+```
